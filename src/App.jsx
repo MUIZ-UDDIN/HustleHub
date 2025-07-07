@@ -6,7 +6,6 @@ import Contact from "./pages/Contact";
 
 export default function App() {
   return (
-    <BrowserRouter>
       <main className="fade-in">
         <Routes>
           <Route path="/" element={<Home />} />
@@ -15,6 +14,5 @@ export default function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </main>
-    </BrowserRouter>
   );
 }
