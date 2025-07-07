@@ -1,9 +1,9 @@
 {
-  "name": "hustle-hub",
+  "name": "hustleub-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://muiz-uddin.github.io/Hustle-Hub",
+  "homepage": "https://muiz-uddin.github.io/HustleHub/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
